@@ -1,6 +1,6 @@
-# AI Tutor ChatBot Using GROQ
+# Swara: Your AI Tutor for Development and Competitive Programming
 
-This project is an AI Tutor ChatBot built with GROQ. It uses the Streamlit library for the web interface and the GROQ API for the AI model.
+This project is an AI Tutor ChatBot named Swara, built with GROQ. It uses the Streamlit library for the web interface and the GROQ API for the AI model. The application is deployed at [ai-swara](http://ai-swara.streamlit.app).
 
 ## Features
 
